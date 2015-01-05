@@ -1,0 +1,19 @@
+[mathjax]
+
+This project was put together quickly while waiting for a physics job to finish.  It was an exercise to see how quickly I could make a useful page with my current setup on my website.  Including time to research, write, upload, and test the page it took around 20 minutes.
+
+<h3>Links</h3>
+
+<a href="http://www.aidansean.com/pi_estimation">Live page</a>
+<a href="https://github.com/aidansean/pi_estimation">GitHub repository</a>
+
+<h3>Overview</h3>
+
+This page uses a Monte Carlo method to estimate &pi;.  This is a pure method in that it does not rely on knowledge of &pi; to make the estimate, as some methods do.  It throws random numbers in a two dimensional area and counts how many lie within the circle of radius \(1\) compared to a square of side \(2\).
+
+<h3>Challenges</h3>
+<dl>
+<dt><em>Challenge</em>: This was all about speed.</dt>
+
+<dd><em>Solution</em>: I already knew everything I needed to put this page together, so it was simply a matter of how quickly I did it.  I'm quite happy with the end result of 1020 seconds. (Resolved)</dd>
+</dl>
